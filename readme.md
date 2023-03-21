@@ -1,4 +1,4 @@
-# Scarlet/Violet Vivillon Plugin
+# Scarlet/Violet Vivillon Plugin (Archived; moved to [PKHeXPluginPile](https://github.com/foohyfooh/PKHeXPluginPile))
 
 The purpose of this [PKHeX](https://github.com/kwsch/PKHeX) plugin is allow a user to edit which Vivillon Spawns in Scarlet and Violet without requiring GO Connectivity.
 
